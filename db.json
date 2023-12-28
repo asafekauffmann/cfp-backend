@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "modelo produto um",
+      "size": "tamanho produto um",
+      "stock": 20,
+      "created": "20/12/2023",
+      "color": "blue"
+    },
+    {
+      "id": 2,
+      "name": "modelo produto dois",
+      "size": "tamanho produto dois",
+      "stock": 20,
+      "created": "20/12/2023",
+      "color": "blue"
+    },
+    {
+      "name": "",
+      "size": "",
+      "stock": 0,
+      "created": "",
+      "color": "",
+      "id": 4
+    },
+    {
+      "name": "",
+      "size": "",
+      "stock": 0,
+      "created": "",
+      "color": "",
+      "id": 5
+    },
+    {
+      "name": "teste nova api",
+      "size": "medium",
+      "stock": 3,
+      "created": "2222-02-22",
+      "color": "red",
+      "id": 6
+    },
+    {
+      "name": "",
+      "size": "",
+      "stock": 0,
+      "created": "0",
+      "color": "",
+      "id": 7
+    },
+    {
+      "name": "name",
+      "size": "size",
+      "stock": 2000,
+      "created": "1111-11-11",
+      "color": "fffffffff",
+      "id": 8
+    },
+    {
+      "name": "",
+      "size": "",
+      "stock": 0,
+      "created": "0",
+      "color": "",
+      "id": 9
+    },
+    {
+      "name": "guilherme",
+      "size": "grande",
+      "stock": 30,
+      "created": "5555-05-05",
+      "color": "azuisss",
+      "id": 10
+    }
+  ]
+}
